@@ -2,8 +2,6 @@
 title: Welcome to My Blog
 ---
 
-# 👋 Welcome!
-
 ## What to Expect Here
 
 - Cybersecurity experiments  
