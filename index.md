@@ -12,7 +12,7 @@ title: Welcome to My Blog
 ---
 
 
-Stay curious. Break things. Learn fast. Build stuff. Break them.
+Stay curious💕
 
 ## 🔗 Connect with Me
 
