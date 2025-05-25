@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Cloud Hunting - A Wiz Challenge"
+---
+
 ## Cloud Hunting - A Wiz Challenge
 
 [Link to challenges](https://cloudhuntinggames.com/)
