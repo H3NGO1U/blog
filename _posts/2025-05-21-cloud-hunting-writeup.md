@@ -100,3 +100,4 @@ So basically running `umount /var/log` restores the logs.
 
 ![alt text](image-10.png)
 
+
