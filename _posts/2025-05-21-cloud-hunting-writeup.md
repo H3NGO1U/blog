@@ -104,3 +104,4 @@ We can print the lastlog:
 
 ![alt text](image-11.png)
 
+Which appears to be the attacker's IP
