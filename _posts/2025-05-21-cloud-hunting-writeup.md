@@ -90,3 +90,8 @@ From the name of the challenge (and from the hints😄), we can guess that runni
 
 This command shows us the current mount points on the system.
 By inspecting the output, we might be able to locate hidden or layered directories—especially ones mounted over sensitive paths like /var/log—which could explain why certain logs appear missing or tampered with.
+
+So basically running `umount /var/log` restores the logs.
+
+![alt text](image-10.png)
+
